@@ -12,5 +12,3 @@ We developed GeoSDR (Geometric Supply-Demand Relation) Model, a novel mathematic
 
 In this repository, we modeled real data of the Brazilian BMFBovespa stock exchange with GeoSDR, and provide an interactive tool for GeoSRD vizualizations of stock market data.
 
-
-### This project is still in its early stages. A more scientific version of this text, a proper Research Project, can be found in the "academic" subdirectory
